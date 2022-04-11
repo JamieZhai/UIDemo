@@ -1,0 +1,7 @@
+pageObject\BookMotorHomePage.class
+pageObject\GoogleHomePage.class
+managers\WebDriverManager.class
+managers\TestContext.class
+runners\TestRunner.class
+stepDefinitions\Steps.class
+managers\PageObjectManager.class
